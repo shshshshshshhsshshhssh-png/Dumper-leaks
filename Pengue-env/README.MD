@@ -1,2 +1,1 @@
-# hello
-random ass dumper
+claims she doesnt use ai
