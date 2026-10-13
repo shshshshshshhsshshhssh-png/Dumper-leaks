@@ -10,3 +10,4 @@ join 45ms https://45-ms.netlify.app
 **mimic, cyanide, winzetim, Laspard, LSD, Bat and yaru**
 
 # ⚠️ PLEASE READ THE LICENSE!
+original: https://github.com/shshshshshshhsshshhssh-png/Dumper-leaks
